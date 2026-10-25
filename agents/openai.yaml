@@ -1,0 +1,7 @@
+interface:
+  display_name: "Music Library Overhaul"
+  short_description: "Repair, de-duplicate, retag and cull a decades-old music library, safely."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon-512.png"
+  brand_color: "#049498"
+  default_prompt: "Help me overhaul my music library. Start by asking me where the copy is."
